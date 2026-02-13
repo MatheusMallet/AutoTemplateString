@@ -5,7 +5,7 @@
     "type": "git",
     "url": "https://github.com/MatheusMallet/AutoTemplateString"
   },
-  "displayName": "Auto template String Converter",
+  "displayName": "Automatic Template String Converter JS",
   "description": "Auto template string converter",
   "version": "0.0.1",
   "engines": {
