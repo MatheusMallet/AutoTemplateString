@@ -1,5 +1,10 @@
 {
   "name": "auto-template-string",
+  "publisher": "Matheus Mallet",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MatheusMallet/AutoTemplateString"
+  },
   "displayName": "Auto template string",
   "description": "Auto template string converter",
   "version": "0.0.1",
